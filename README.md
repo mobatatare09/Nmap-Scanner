@@ -14,7 +14,7 @@ A lightweight, multi-threaded command-line utility written in Python to perform 
 
 1. **Clone the Repository:**
    ```bash
- git clone [https://github.com/YOUR_USERNAME/network-vulnerability-checker.git](https://github.com/YOUR_USERNAME/network-vulnerability-checker.git)
+ git clone [https://github.com/mobatatare09/network-vulnerability-checker.git](https://github.com/mobatatare09/network-vulnerability-checker.git)
    cd network-vulnerability-checker
    
   ## 📖 Usage Instructions
